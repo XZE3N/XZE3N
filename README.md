@@ -2,7 +2,7 @@
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
 <hr>
-![Profile views](https://gpvc.arturio.dev/[xze3n]) <br>
+![Profile views](https://gpvc.arturio.dev/xze3n) <br>
 #### I'm a Software Developer & Ethical Hacker working in Romania.
 
 - 🏢 I'm currently working on post-exploitation scripts
