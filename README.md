@@ -2,18 +2,16 @@
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
 <hr>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 #### I'm a Software Developer & Ethical Hacker working in Romania.
 
 - 🏢 I'm currently working on post-exploitation scripts
-- ⚙️ My mostly used languages: `.php`, `.js`, `.html`, `.css`, `.ps1`, `.cpp`, `.vbs<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>`
+- ⚙️ My mostly used languages: `.php`, `.js`, `.html`, `.css`, `.ps1`, `.cpp`, `.vbs`<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **software**, **development**, **design thinking**
 - 📫 Reach me: [reddit.com/user/xze3n](https://www.reddit.com/user/XZE3N)
 - 📫 Mail: xze3n.py@gmail.com or xze3n.sh@gmail.com
 
------
-<hr>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=D3D3D3)
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairjibran&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 <hr>
