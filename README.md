@@ -2,7 +2,7 @@
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
 <hr>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=xze3n&style=flat-square) <br>
 #### I'm a Software Developer & Ethical Hacker working in Romania.
 
 - 🏢 I'm currently working on post-exploitation scripts
