@@ -2,7 +2,6 @@
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XZE3N.visitor-badge)
 #### I'm a Software Developer & Ethical Hacker working in Romania.
 
 - 🏢 I'm currently working on post-exploitation scripts
