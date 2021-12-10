@@ -2,7 +2,7 @@
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
 <br>
-#### I'm a Software Developer & Ethical Hacker working in Romania.
+### I'm a Software Developer & Ethical Hacker working in Romania.
 
 - 🏢 I'm currently working on post-exploitation scripts
 - ⚙️ My mostly used languages: `.php`, `.js`, `.html`, `.css`, `.ps1`, `.cpp`, `.vbs`<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
