@@ -1,14 +1,12 @@
 ### Hi there 👋
 <hr>
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="60" height="60"/>
-<br>
-### I'm a Software Developer & Ethical Hacker working in Romania.
 
-- 🏢 I'm currently working on post-exploitation scripts
-- ⚙️ My mostly used languages: `.php`, `.js`, `.html`, `.css`, `.ps1`, `.cpp`, `.vbs`<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+## I'm a Computer Science student, software developer, and pentester based in Romania.
+
+- ⚙️ My mostly used languages: `.cs`, `.php`, `.js`, `.cpp`, `.css`, `.ps1` <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **software**, **development**, **design thinking**
-- 📫 Reach me: [reddit.com/user/xze3n](https://www.reddit.com/user/XZE3N)
+- 💬 Ping me about **design**, **software**, **development**
 - 📫 Mail: xze3n.py@gmail.com or xze3n.sh@gmail.com
 
 <hr>
