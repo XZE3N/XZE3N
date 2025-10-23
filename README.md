@@ -56,8 +56,8 @@ Here are a few of my active or showcase projects — click to explore them in ac
 
 | Project | Description | Live Demo | Source |
 |----------|--------------|-----------|--------|
-| **MoralityMatrix** | Full-stack ASP.NET Core + Bootstrap application centered around philosophy content and discussions. | [View Live](https://moralitymatrix.azurewebsites.net/) |  |
-| **CarRadioCodeAPI** | Backend service built with **FastAPI** and **Python**, implementing a collection of algorithms for calculating car radio unlock codes. | [View Live](https://carradiocodeapi.azurewebsites.net/) | [Repo](https://github.com/XZE3N/CarRadioCodeAPI) |
+| **MoralityMatrix** | Full-stack ASP.NET Core + Bootstrap application centered around philosophy content and discussions. | <a href="https://moralitymatrix.azurewebsites.net/" target="_blank">Demo ↗</a> | [Repo](https://github.com/XZE3N/MoralityMatrix) |
+| **CarRadioCodeAPI** | Backend service built with **FastAPI** and **Python**, implementing a collection of algorithms for calculating car radio unlock codes. | <a href="https://carradiocodeapi.azurewebsites.net/redoc/" target="_blank">Demo ↗</a> | [Repo](https://github.com/XZE3N/CarRadioCodeAPI) |
 
 ---
 
